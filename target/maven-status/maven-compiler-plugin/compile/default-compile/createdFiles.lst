@@ -1,0 +1,13 @@
+ma\chaima\DeleteFile.class
+ma\chaima\RenameFile.class
+ma\chaima\ReadCSV.class
+ma\chaima\ListFiles.class
+ma\chaima\DownloadFromHDFS.class
+ma\chaima\CreateFile.class
+ma\chaima\MoveFile.class
+ma\chaima\ReadFile.class
+ma\chaima\FreeSpace.class
+ma\chaima\CopyToHDFS.class
+ma\chaima\CreateDirectory.class
+ma\chaima\FileMetadata.class
+ma\chaima\WriteCSV.class
