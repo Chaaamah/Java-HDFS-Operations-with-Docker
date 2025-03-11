@@ -54,5 +54,5 @@ Les fonctionnalités suivantes sont implémentées en Java pour interagir avec H
 
 Chaque fonctionnalité est implémentée sous forme d'application Java. Pour exécuter une application, utilisez la commande suivante :
 ```sh
-java -jar target/<nom-de-l'application>.jar
+java -jar jars/<nom-de-l'application>.jar
 ```
